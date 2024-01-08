@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LikeButton">
+        <attr name="iconSize" format="dimension" />
+        <attr name="likedColor" format="color" />
+        <attr name="unlikedColor" format="color" />
+    </declare-styleable>
+</resources>
